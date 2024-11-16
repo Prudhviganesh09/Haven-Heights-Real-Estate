@@ -60,8 +60,11 @@ JWT_SECRET=your_jwt_secret
 
 ### Technologies Used
 Frontend: React.js, Redux, Bootstrap
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JWT
 
 ### Author
